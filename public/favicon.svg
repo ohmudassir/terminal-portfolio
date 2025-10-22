@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Dark background, rounded -->
+  <rect width="32" height="32" rx="5" fill="#1a1a1a"/>
+  <!-- The '>' prompt character in cyan -->
+  <path d="M9 12 L15 16 L9 20" stroke="#22d3ed" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A blinking cursor (underscore) -->
+  <path d="M17 20 L21 20" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+</svg>
